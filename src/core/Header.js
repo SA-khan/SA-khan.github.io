@@ -6,7 +6,7 @@ const Header = () => {
       //React.createElement("img",{ src: "../../public/images/profile.jpg", width: '40px', height: '40px' }, "")
       React.createElement("h4", { className: 'bg-dark text-white p-2' },
         [
-          "Muhammad Saad Ahmed",
+          "PORTFOLIO",
           React.createElement('a', { className: 'btn btn-warning btn-sm p-1 text-decoration-none float-end' },
           "Download PDF Now!")
         ]
