@@ -198,6 +198,6 @@ const GeneralInformation = () => {
   )
 }
 
-const GI = document.getElementById("general-info");
-const GI_root = ReactDOM.createRoot(GI);
+const GeneralInfo = document.getElementById("general-info");
+const GI_root = ReactDOM.createRoot(GeneralInfo);
 GI_root.render(React.createElement(GeneralInformation));
