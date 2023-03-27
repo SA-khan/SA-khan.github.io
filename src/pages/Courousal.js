@@ -82,13 +82,16 @@ const Courousal = () => {
                 {
                   className: 'card-body'
                 },
+                [
                 React.createElement(
                   "div",
                   {
                     className: 'card-title'
                   },
                   'Blogs'
-                )
+                ),
+                React.createElement("a", { href: "https://assaykhan.hashnode.dev/" }, 'Ge Here!')
+                ]
               )
             ]
           )
