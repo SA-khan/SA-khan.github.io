@@ -101,7 +101,7 @@ const Courousal = () => {
           },
           React.createElement("div",
           {
-            className: 'card',
+            className: 'card shadow',
           },
           React.createElement(
             "div",
